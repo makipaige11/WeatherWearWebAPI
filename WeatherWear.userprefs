@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{00AA304F-8945-48DF-8A22-A161CD63F39D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WWClassLib/Engine/WeatherToOutfitEngine.cs">
+    <Files>
+      <File FileName="WWClassLib/Engine/WeatherToOutfitEngine.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WeatherWear.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

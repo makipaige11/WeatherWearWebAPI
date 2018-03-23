@@ -1,0 +1,17 @@
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/WWClassLib.dll.config
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/WWClassLib.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/WWClassLib.pdb
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/Newtonsoft.Json.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Net.Http.Extensions.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Net.Http.Formatting.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Net.Http.Primitives.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/Newtonsoft.Json.xml
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/bin/Debug/System.Net.Http.Formatting.xml
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/obj/Debug/WWClassLib.csprojResolveAssemblyReference.cache
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/obj/Debug/WWClassLib.csproj.CoreCompileInputs.cache
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/obj/Debug/WWClassLib.dll
+/Users/paigemaki/Projects/robintschroeder/WeatherWearWebAPI-4-Mac.git/trunk/WeatherWear/WWClassLib/obj/Debug/WWClassLib.pdb
